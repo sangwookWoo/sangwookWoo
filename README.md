@@ -1,5 +1,6 @@
 ### 데이터엔지니어 👋
 자기소개 : https://sangwookwoo-resume-sangwook-ry5afd.streamlit.app/
+블로그 : https://dataengineerstudy.tistory.com
 <!--
 **sangwookWoo/sangwookWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

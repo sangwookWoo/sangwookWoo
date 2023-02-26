@@ -1,5 +1,5 @@
 ### 데이터엔지니어 👋
-자기소개 : https://sangwookwoo-resume-sangwook-ry5afd.streamlit.app/
+자기소개 : https://www.notion.so/e9cd45a502ec4d67bc316616c0b62167?pvs=4
 
 블로그 : https://dataengineerstudy.tistory.com
 

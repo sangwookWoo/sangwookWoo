@@ -9,7 +9,7 @@
 꾸준히 공부하며 블로그를 운영하고 있습니다!
 
 ### Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={insert_name})](https://dataengineerstudy.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={DataengineerStudy})](https://dataengineerstudy.tistory.com/)
 
 ### Git Summary
 ___

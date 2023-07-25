@@ -7,6 +7,8 @@
 <!--
 **sangwookWoo/sangwookWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Sangwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaynamm&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynamm&layout=compact&theme=dracula)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
